@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://appmap.io"><img src="images/appmap_logo_on_black.png" alt="AppMap" style="width:500px;">
+  <a href="https://appmap.io"><img src="https://github.com/applandinc/.github/raw/main/profile/images/appmap_logo_on_black.png" alt="AppMap" style="width:500px;">
 </p>
 
 --- 
