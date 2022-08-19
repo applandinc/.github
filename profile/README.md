@@ -21,3 +21,15 @@ You use AppMaps right in your code editor, using an AppMap extension or plugin. 
 ### 🐦 Follow us <a href="https://twitter.com/landofapps" target="_blank">on Twitter</a>
 ### 🎥 Check out demos and <a href="https://www.youtube.com/channel/UCxVv4gVnr2Uf2PSzoELZUcg/featured" target="_blank">getting started videos on YouTube</a>
 ### 👏 Join our open source community <a href="https://appmap.io/slack" target="_blank">on Slack</a>
+
+---
+# AppMap Dependency View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/applandinc/.github/main/profile/images/appmap-screenshot-dep.png" alt="AppMap Dependency View"></a>
+</p>
+
+---
+# AppMap Trace View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/applandinc/.github/main/profile/images/appmap-screenshot-trace.png" alt="AppMap Trace View"></a>
+</p>
