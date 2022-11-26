@@ -6,7 +6,7 @@
 
 [AppMap](https://appmap.io) is a free and open-source runtime code analysis tool with support for [Ruby](https://github.com/getappmap/appmap-ruby), [Java](https://github.com/getappmap/appmap-java), [Python](https://github.com/getappmap/appmap-python), [Javascript](https://github.com/getappmap/appmap-agent-js)  
 
-Over 18,000 software developers are using the [AppMap extension for VSCode](https://marketplace.visualstudio.com/items?itemName=appland.appmap) and the [AppMap for JetBrains](https://plugins.jetbrains.com/plugin/16701-appmap).
+Over 30,000 software developers are using the [AppMap extension for VSCode](https://marketplace.visualstudio.com/items?itemName=appland.appmap) and the [AppMap for JetBrains](https://plugins.jetbrains.com/plugin/16701-appmap).
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=appland.appmap" target="_blank"><img src="https://github.com/getappmap/.github/raw/main/profile/images/VSCode.png" alt="AppMap for VS Code" style="width:300px;"></a>
   <a href="https://plugins.jetbrains.com/plugin/16701-appmap" target="_blank"><img src="https://github.com/getappmap/.github/raw/main/profile/images/JetBrains.png" alt="AppMap for JetBrains" style="width:300px;"></a>
