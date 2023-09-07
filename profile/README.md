@@ -16,7 +16,7 @@ AppMap records code execution traces, collecting information about how your code
 
 You use AppMaps right in your code editor, using an AppMap extension or plugin. AppMaps also link directly to code, so you can use the information in the diagrams to make immediate code changes and improvements.
 
-# Join over 40,000 software developers using AppMap
+# Join over 60,000 software developers using AppMap
 ### 📖 Check out <a href="https://appmap.io/docs" target="_blank">our docs</a>
 ### 🐦 Follow us <a href="https://twitter.com/getappmap" target="_blank">on Twitter</a>
 ### 🎥 Check out demos and <a href="https://www.youtube.com/channel/UCxVv4gVnr2Uf2PSzoELZUcg/featured" target="_blank">getting started videos on YouTube</a>
