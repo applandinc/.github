@@ -1,10 +1,8 @@
 <p align="center">
-  <div style="width:300px; margin: auto;">
     <picture >
       <source srcset="https://github.com/getappmap/.github/raw/main/profile/images/appmap-full-logo.svg" media="(prefers-color-scheme: light)" alt="AppMap Logo">
       <img src="https://github.com/getappmap/.github/raw/main/profile/images/appmap-full-logo-wht.svg">
     </picture>
-  </div>
 </p>
 
 --- 
