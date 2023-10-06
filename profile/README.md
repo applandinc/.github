@@ -21,7 +21,7 @@ AppMap can be seamlessly integrated into your workflow. It can be utilized local
 
 - 📖 [Documentation](documentation-link)  
 - ▶️ [YouTube Channel](youtube-channel-link)  
-- 💬 [Join our Slack Community](slack-community-link)  
+- 💬 [Slack Community](slack-community-link)  
 
 <p align="center" dir="auto">
   <a href="http://getappmap.com" rel="nofollow"><img src="https://github.com/getappmap/.github/raw/main/profile/images/get-appmap-button.png" alt="AppMap for VS Code" style="width: 300px; max-width: 100%;"></a>
