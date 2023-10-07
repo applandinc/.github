@@ -1,7 +1,7 @@
 <p align="center">
     <picture >
       <source srcset="https://github.com/getappmap/.github/raw/main/profile/images/appmap-logo-blk-type.png" media="(prefers-color-scheme: light)" alt="AppMap Logo">
-      <img src="https://github.com/getappmap/.github/raw/main/profile/images/appmap-logo-wht-type.png" style="width: 500px;">
+      <img src="https://github.com/getappmap/.github/raw/main/profile/images/appmap-logo-wht-type.png" width="500px">
     </picture>
 </p>
 
