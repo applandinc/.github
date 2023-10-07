@@ -13,9 +13,9 @@
 
 - **Test Failures:** Identify the root causes of test failures.
 - **Security Flaws:** Finds vulnerabilities like missing and impropepr authorization, secrets in logs, and unsafe system calls.
-- **Performance Problems:** Identifies anti-pattenrs like N+1 queries. Slow operations can be visualized within interactive flame graphs, without the need to change application code to add spans. 
+- **Performance Problems:** Identifies anti-patterns like N+1 queries. Slow operations can be visualized within interactive flame graphs, without the need to change application code to add spans. 
 - **Identification of Important API Changes:** Inspect crucial alterations in the API.
-- **SQL Details:** See exactly how your code is using the database, and where each query is coming from in your code. 
+- **SQL Details:** See exactly how your code uses the database, and where each query is coming from in your code. 
 
 AppMap can be seamlessly integrated into your workflow. It can be used locally within your code editor or centrally as part of your Continuous Integration system. AppMaps are regular files on _your_ file system - so your code and data stay with you. 
 
