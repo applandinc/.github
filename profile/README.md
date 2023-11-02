@@ -15,7 +15,7 @@
 
 - **Test Failure Analysis:** Identify the root causes of test failures.
 - **Identification of Important API Changes:** Inspect crucial alterations in the API.
-- **Security Flaw Detection:** Finds vulnerabilities like missing and impropepr authorization, secrets in logs, and unsafe system calls.
+- **Security Flaw Detection:** Finds vulnerabilities like missing and improper authorization, secrets in logs, and unsafe system calls.
 - **Performance Problem Detection:** Identifies anti-patterns like N+1 queries. Slow operations can be visualized within interactive flame graphs, without the need to change application code to add spans.
 - **SQL Details:** See exactly how your code uses the database, and where each query is coming from in your code. 
 
