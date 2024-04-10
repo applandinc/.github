@@ -9,7 +9,7 @@
 
 # Runtime Code Quality Analysis
 
-[AppMap](https://appmap.io) is a versatile open-source runtime code analysis tool compatible with [Ruby](https://github.com/getappmap/appmap-ruby), [Java](https://github.com/getappmap/appmap-java), [Python](https://github.com/getappmap/appmap-python), and [Node.js](https://github.com/getappmap/appmap-agent-js). It records code execution traces, gathering data abut how your code works and behaves. These traces can then be displayed as interactive diagrams, and analyzed to find coding flaws and problems.
+[AppMap](https://appmap.io) is a versatile open-source runtime code analysis tool compatible with [Ruby](https://github.com/getappmap/appmap-ruby), [Java](https://github.com/getappmap/appmap-java), [Python](https://github.com/getappmap/appmap-python), and [Node.js](https://github.com/getappmap/appmap-node). It records code execution traces, gathering data abut how your code works and behaves. These traces can then be displayed as interactive diagrams, and analyzed to find coding flaws and problems.
 
 **Key Features of AppMap Analysis:**
 
