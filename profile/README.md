@@ -7,23 +7,18 @@
 
 --- 
 
-# Runtime Code Quality Analysis
+# AppMap 
 
-[AppMap](https://appmap.io) is a versatile open-source runtime code analysis tool compatible with [Ruby](https://github.com/getappmap/appmap-ruby), [Java](https://github.com/getappmap/appmap-java), [Python](https://github.com/getappmap/appmap-python), and [Node.js](https://github.com/getappmap/appmap-node). It records code execution traces, gathering data about how your code works and behaves. These traces can then be displayed as interactive diagrams, and analyzed to find coding flaws and problems.
+AppMap is an AI software architect that gives you deep code explanations and code reviews along with diagrams about your code. AppMap brings runtime-awareness to your code editor and AI-powered code assistance.
 
-**Key Features of AppMap Analysis:**
+Start by entering a question, issue description, or bug in the Navie chat, and get answers from a "senior AI software developer" that has a deep understanding of your application.
 
-- **Test Failure Analysis:** Identify the root causes of test failures.
-- **Identification of Important API Changes:** Inspect crucial alterations in the API.
-- **Security Flaw Detection:** Finds vulnerabilities like missing and improper authorization, secrets in logs, and unsafe system calls.
-- **Performance Problem Detection:** Identifies anti-patterns like N+1 queries. Slow operations can be visualized within interactive flame graphs, without the need to change application code to add spans.
-- **SQL Details:** See exactly how your code uses the database, and where each query is coming from in your code. 
+Choose your AI LLM to use with Navie AI including: GitHub Copilot’s LLM, OpenAI, Anthropic Claude, Gemini, and local models.
 
-AppMap can be seamlessly integrated into your workflow. It can be used locally within your code editor or centrally as part of your Continuous Integration system. AppMaps are regular files on _your_ file system - so your code and data stay with you. 
 
 **Explore AppMap:**
 
-- 📖 [Documentation](https://appmap.io/docs/appmap-overview.html) 
+- 📖 [Documentation](https://appmap.io/docs/) 
 - ▶️ [YouTube Channel](https://www.youtube.com/channel/UCxVv4gVnr2Uf2PSzoELZUcg)
 - 💬 [Slack Community](https://appmap.io/slack)  
 
