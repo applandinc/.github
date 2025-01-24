@@ -5,9 +5,7 @@
     </picture>
 </p>
 
---- 
-
-# AppMap 
+---  
 
 AppMap is an AI software architect that gives you deep code explanations and code reviews along with diagrams about your code. AppMap brings runtime-awareness to your code editor and AI-powered code assistance.
 
